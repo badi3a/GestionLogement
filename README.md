@@ -23,4 +23,4 @@ Avant de cloner et d'utiliser ce projet, assurez-vous d'avoir installé les él�
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone https://github.com/votreutilisateur/gestion-logements.git
+   git clone https://github.com/badi3a/gestion-logements.git
